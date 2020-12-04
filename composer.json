@@ -38,7 +38,7 @@
         "infection/infection": "^0.20.0",
         "kriswallsmith/buzz": "^1.0",
         "nyholm/psr7": "^1.0",
-        "phpunit/phpunit": "^9.4",
+        "phpunit/phpunit": "^9.5",
         "vimeo/psalm": "^4.1",
         "yiisoft/di": "^3.0@dev",
         "yiisoft/log": "^3.0@dev",
